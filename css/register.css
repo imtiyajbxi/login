@@ -1,0 +1,29 @@
+.user-box{
+    background-color: grey;
+    padding: 190px;
+    width: 67%;
+    border: 10px solid yellow;
+    margin: auto;
+    text-align: center;
+}
+.user-box h1{
+    color: yellow;
+}
+.user-box form input{
+    width: 200px;
+    margin: 6px auto;
+    padding: 6px;
+    border: none;
+    background-color: gainsboro;
+    
+}
+.user-box form label{
+    color: yellow;
+}
+#re{
+    background-color: yellow;
+    box-shadow: 5px 5px 10px black
+}
+.shadow{
+    box-shadow: 5px 5px 10px black
+}

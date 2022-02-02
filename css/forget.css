@@ -1,0 +1,25 @@
+.remember{
+    background-color: aquamarine;
+    padding: 310px;
+    width: 60%;
+    border: 10px solid blue;
+    margin: auto;
+    text-align: center;
+}
+h1, p{
+    color: blue;
+}
+.remember form input{
+    width: 200px;
+    margin: 6px auto;
+    padding: 6px;
+}
+.remember form label{
+    color: blue;
+}
+#clr{
+    color: blue;
+}
+.shadow{
+    box-shadow: 5px 5px 10px blue;
+}
